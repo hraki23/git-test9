@@ -5,6 +5,7 @@ out/
 
 .idea/
 GitTest9.iml
+cloned-git-test9.iml
 **/*.log
 
 ### Eclipse ###
